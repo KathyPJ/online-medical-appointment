@@ -1,0 +1,93 @@
+[
+  {
+    "name": "order",
+    "path": "/order",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\order\\\\index.vue",
+    "chunkName": "pages/order/index",
+    "_name": "_75f40060"
+  },
+  {
+    "name": "patient",
+    "path": "/patient",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\patient\\\\index.vue",
+    "chunkName": "pages/patient/index",
+    "_name": "_788cb96e"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_4a43203b"
+  },
+  {
+    "name": "hosp-booking",
+    "path": "/hosp/booking",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\hosp\\\\booking.vue",
+    "chunkName": "pages/hosp/booking",
+    "_name": "_505e32c9"
+  },
+  {
+    "name": "hosp-schedule",
+    "path": "/hosp/schedule",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\hosp\\\\schedule.vue",
+    "chunkName": "pages/hosp/schedule",
+    "_name": "_db993f52"
+  },
+  {
+    "name": "order-show",
+    "path": "/order/show",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\order\\\\show.vue",
+    "chunkName": "pages/order/show",
+    "_name": "_2ae7525f"
+  },
+  {
+    "name": "patient-add",
+    "path": "/patient/add",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\patient\\\\add.vue",
+    "chunkName": "pages/patient/add",
+    "_name": "_8803c150"
+  },
+  {
+    "name": "patient-show",
+    "path": "/patient/show",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\patient\\\\show.vue",
+    "chunkName": "pages/patient/show",
+    "_name": "_0845a354"
+  },
+  {
+    "name": "weixin-callback",
+    "path": "/weixin/callback",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\weixin\\\\callback.vue",
+    "chunkName": "pages/weixin/callback",
+    "_name": "_da6c837a"
+  },
+  {
+    "name": "hosp-detail-hoscode",
+    "path": "/hosp/detail/:hoscode?",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\hosp\\\\detail\\\\_hoscode.vue",
+    "chunkName": "pages/hosp/detail/_hoscode",
+    "_name": "_0b01bd6a"
+  },
+  {
+    "name": "hosp-notice-hoscode",
+    "path": "/hosp/notice/:hoscode?",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\hosp\\\\notice\\\\_hoscode.vue",
+    "chunkName": "pages/hosp/notice/_hoscode",
+    "_name": "_5345b0dc"
+  },
+  {
+    "name": "hosp-hoscode",
+    "path": "/hosp/:hoscode?",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\hosp\\\\_hoscode.vue",
+    "chunkName": "pages/hosp/_hoscode",
+    "_name": "_10c6718c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\code\\\\shangyitong\\\\yygh\\\\yygh-site\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4ec01166"
+  }
+]
